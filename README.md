@@ -1,10 +1,10 @@
 # Inventory-Management-System-for-Book-Shop 📚
 
-Problem:
+💻 Problem:
 
 Bookstores need to keep track of their inventory in order to ensure that they have the books that their customers want and to avoid overstocking. This can be a challenging task, especially for large bookstores with a wide variety of books.
 
-Approach:
+🎯 Approach:
 
 I plan to develop an inventory management system for bookstores that will help them to track their inventory more efficiently and effectively. The system will use a database to store information about each book, such as its title, author, publisher, genre, and quantity in stock. The system will also provide a variety of features to help bookstores manage their inventory, such as:
 
@@ -12,11 +12,11 @@ The ability to add, edit, and delete books from the database
 The ability to generate reports on inventory levels, sales, and other metrics
 The ability to track book orders and shipments
 
-Solution:
+💡 Solution:
 
 The inventory management system will be a web-based application that can be accessed from any device with an internet connection. This will make it easy for bookstores to manage their inventory from anywhere.
 
-Impact:
+📈 Impact:
 
 The inventory management system will help bookstores to save time and money by automating the inventory management process. It will also help bookstores to improve their customer service by ensuring that they have the books that their customers want in stock.
 
